@@ -1,7 +1,11 @@
 # SICAR puente de conexión POS
 
 <p align="center">
-  <img src="https://res.cloudinary.com/xadani-mexico/image/upload/v1783542709/assets/proyecto-verificador-precios/bridge-libp2p/images/arquitectura-instalacion-red-lan.png?v=2" width="500" alt="Ejemplo de una red LAN con un punto de venta y varios Verificadores de Precios conectados">
+  <img src="https://res.cloudinary.com/xadani-mexico/image/upload/v1784063241/assets/proyecto-verificador-precios/bridge-libp2p/images/icon.svg" alt="Logo del proyecto Puente de conexión POS" height="100" align="middle" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/xadani-mexico/image/upload/v1784063599/assets/proyecto-verificador-precios/bridge-libp2p/images/plus-icon.svg" alt="Símbolo más" height="32" align="middle" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/xadani-mexico/image/upload/v1767412522/assets/proyecto-verificador-precios/sicar/sicar.svg" alt="Logo de SICAR" height="100" align="middle" />
 </p>
 
 ## Introducción
