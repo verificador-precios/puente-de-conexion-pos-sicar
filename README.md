@@ -5,7 +5,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://res.cloudinary.com/xadani-mexico/image/upload/v1784063599/assets/proyecto-verificador-precios/bridge-libp2p/images/plus-icon.svg" alt="Símbolo más" height="32" align="middle" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://res.cloudinary.com/xadani-mexico/image/upload/v1767412522/assets/proyecto-verificador-precios/sicar/sicar.svg" alt="Logo de SICAR" height="100" align="middle" />
+  <img src="https://res.cloudinary.com/xadani-mexico/image/upload/b_white,f_png,h_300,dpr_2.0/v1767412522/assets/proyecto-verificador-precios/sicar/sicar.svg" alt="Logo de SICAR" height="100" align="middle" />
 </p>
 
 ## Introducción
