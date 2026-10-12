@@ -1,11 +1,7 @@
 # SICAR puente de conexión POS
 
 <p align="center">
-  <img src="https://res.cloudinary.com/xadani-mexico/image/upload/v1784063241/assets/proyecto-verificador-precios/bridge-libp2p/images/icon.svg" alt="Logo del proyecto Puente de conexión POS" height="100" align="middle" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://res.cloudinary.com/xadani-mexico/image/upload/v1784063599/assets/proyecto-verificador-precios/bridge-libp2p/images/plus-icon.svg" alt="Símbolo más" height="32" align="middle" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://res.cloudinary.com/xadani-mexico/image/upload/b_white,f_png,h_300,dpr_2.0/v1767412522/assets/proyecto-verificador-precios/sicar/sicar.svg" alt="Logo de SICAR" height="100" align="middle" />
+    <img src="https://res.cloudinary.com/xadani-mexico/image/upload/v1791765348/assets/proyecto-verificador-precios/bridge-libp2p/sicar/sicar-banner-tienda.png" width="720" alt="Diagrama de conexión local entre SICAR®, el puente y Verificador de Precios">
 </p>
 
 ## Introducción
@@ -13,7 +9,7 @@
 `SICAR puente de conexión POS` es una aplicación de escritorio que permite conectar nuestro `Verificador de Precios` con el punto de venta `SICAR®`.
 
 <p align="center">
-  <img src="https://res.cloudinary.com/xadani-mexico/image/upload/v1783470709/assets/proyecto-verificador-precios/bridge-libp2p/sicar/sicar-home.png?v=2" width="720" alt="Vista general del panel principal de SICAR puente de conexión POS">
+  <img src="https://res.cloudinary.com/xadani-mexico/image/upload/v1791764688/assets/proyecto-verificador-precios/bridge-libp2p/sicar/sicar-arquitectura-de-uso-en-tienda.png?v=2" width="720" alt="Vista general del panel principal de SICAR puente de conexión POS">
 </p>
 
 ## Guía rápida de configuración
