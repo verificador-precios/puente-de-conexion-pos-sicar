@@ -4,6 +4,8 @@
     <img src="https://res.cloudinary.com/xadani-mexico/image/upload/v1791765348/assets/proyecto-verificador-precios/bridge-libp2p/sicar/sicar-banner-tienda.png" width="720" alt="Diagrama de conexión local entre SICAR®, el puente y Verificador de Precios">
 </p>
 
+[⬇️ Descargar última versión](https://github.com/verificador-precios/puente-de-conexion-pos-sicar/releases/latest)
+
 ## Introducción
 
 `SICAR puente de conexión POS` es una aplicación de escritorio que permite conectar nuestro `Verificador de Precios` con el punto de venta `SICAR®`.
